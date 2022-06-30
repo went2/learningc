@@ -4,6 +4,6 @@
 
 资料：[C語言入門](https://feis.studio/#/c)
 
-![witness-me](./images/winess-me.png)
+![witness-me](./images/witness-me.png)
 
 <small>诚实面对自己</small>
