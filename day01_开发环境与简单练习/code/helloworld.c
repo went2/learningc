@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("cerer\b");
     /*
     int integer, sum;
     printf("Enter the first integer: ");
