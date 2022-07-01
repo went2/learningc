@@ -2,6 +2,9 @@
 
 main() {
     /* F = 1.8 * C + 32 */
+    int bigNumber = 10000 * 10000 * 10000;
+    printf("float: %d.\n", sizeof(float));
+    printf("big number%d.\n", bigNumber);
 
     float celsius, fahr;
     /* ex1-4 in K&R
