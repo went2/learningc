@@ -81,6 +81,10 @@ rules:
 
 ![truncate-in-c](./images/truncate-in-c.png)
 
+### [整数的计算](./整数的计算.md)
+
+
+
 
 
 
