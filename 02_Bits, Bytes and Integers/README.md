@@ -1,4 +1,4 @@
-## 整数的机器表示(machine representation of integer)
+## 一、整数的机器表示(machine representation of integer)
 
 计算机只能存 0 或 1，在机器上保存整数其实讨论的是，如何编码 0 和 1 使其能代表不同整数数值。
 
@@ -11,7 +11,7 @@
 
 说一个电脑是 64-bit 机器，意思是它的 address(pointer) 是用 64 bits(8 bytes) 来存的。
 
-### Bit-Level operation in C
+### 1.1 Bit-Level operation in C
 
 #### operation `&`, `|`, `^`, `~` are available in C. They:
 
@@ -26,7 +26,7 @@
     - left shift: throw extra bits on left; fill with 0's on the right.
     - right shift
 
-### Encoding integers
+### 1.2 Encoding integers
 
 有两种编码整数的方式，它们能表示的范围不同：
 
@@ -81,12 +81,14 @@ rules:
 
 ![truncate-in-c](./images/truncate-in-c.png)
 
-### [整数的计算](./整数的计算.md)
+### 1.3 [整数的计算](./整数的计算.md)
 
 - 加减法在 bit level 层面的操作
 - 乘除法在 bit level 层面的操作
 
-### [在内存中储存整数](./在内存中储存整数.md)
+### 1.4 在内存中储存整数](./在内存中储存整数.md)
+
+## 2. [浮点数的机器表示](./floating-point.md)
 
 
 
