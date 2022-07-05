@@ -1,12 +1,10 @@
 ##  说明
 
-这个仓库的定位是：
-
-一个零基础初学者学习计算机基础的过程记录，包括笔记、问题、作业、代码。
+这个仓记录一个初学者学习计算机基础的过程记录，包括笔记、问题、作业、代码。
 
 ### 学习资料
 
-主要从以下两门课程学习：
+主要跟从这门课程：
 
 - 15-213/15-513: Introduction to Computer Systems, 2015 Fall
 
@@ -14,10 +12,11 @@
 
 	- [Course Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=250&folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&folderQuery=%22Computer%20System%22)
 
+期间也从这门课程学习C语言基础：
 
 - [C語言入門](https://feis.studio/#/c)
 
-课程内容都可以通过网络访问。
+课程内容都可通过网络访问。
 
 ![witness-me](./images/witness-me.png)
 
