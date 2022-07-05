@@ -48,7 +48,7 @@
 ![precision-options](./images/precision-options.png)
 
 
-**3 种浮点数形态（没听懂）**：
+#### 3 种浮点数形态（没听懂）：
 
 	- denormalized
 	- normalized

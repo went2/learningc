@@ -1,4 +1,6 @@
-## 一、整数的机器表示(machine representation of integer)
+## 一、数的机器层面表示(machine representation of number)
+
+<small>对应 CS:APP 一书第二章<small>
 
 计算机只能存 0 或 1，在机器上保存整数其实讨论的是，如何编码 0 和 1 使其能代表不同整数数值。
 
