@@ -28,20 +28,27 @@
 
 (-1)<sup>s</sup>M2<sup>E</sup>
 
-s: 符号位
-M: [1.0, 2.0)之间的小数值，叫 significand M
-E: 以2为底的指数
+- s: 符号位
+- M: [1.0, 2.0)之间的小数值，叫 significand M
+- E: 以2为底的指数
 
 对这三个位做编码，参考下图
 
 ![floating-point-representation](./images/floating-point-representation.png)
 
-浮点数精度：
+不同位数浮点数的指数位大小和小数位大小
+
+|位数| 指数位exp| 小数位frac |
+|---|---|---|
+|float| 8-bits | 23-bits|
+|double| 11-bits | 52-bits|
+
+建议使用 double 存小数。
 
 ![precision-options](./images/precision-options.png)
 
 
-3 种浮点数形态（没听懂）：
+**3 种浮点数形态（没听懂）**：
 
 	- denormalized
 	- normalized
