@@ -1,10 +1,10 @@
 ##  说明
 
-这个仓记录一个初学者学习计算机基础的过程记录，包括笔记、问题、作业、代码。
+cs:app 学习记录仓。不定时记录。
 
 ### 学习资料
 
-主要跟从这门课程：
+卡内基梅隆大学的同名课程：
 
 - 15-213/15-513: Introduction to Computer Systems, 2015 Fall
 
@@ -12,15 +12,14 @@
 
 	- [Course Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=250&folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&folderQuery=%22Computer%20System%22)
 
-期间也从这门课程学习C语言基础：
-
 - [C語言入門](https://feis.studio/#/c)
 
-课程内容都可通过网络访问。
 
 ![witness-me](./images/witness-me.png)
 
 <small>诚实面对自己。</small>
+
+### 备注
 
 仓库文件原先按照时间组织，eg, `day01/code/hello.c`, `day02/code/cel2fah.c`，本意是督促自己每天要写东西，至少要建文件目录，写 README，这样往后回顾能发现自己坚持了多少天。
 
